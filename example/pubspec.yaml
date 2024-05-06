@@ -9,10 +9,10 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-#  home_widget:
-#    git:
-#      url: https://github.com/amjad07/home_widget-main
-#      ref: f0e8e1b  # Specify the desired version or tag
+  home_widget:
+    git:
+      url: https://github.com/amjad07/home_widget-main
+      ref: af9070d  # Specify the desired version or tag
 
 
 #  home_widget:
