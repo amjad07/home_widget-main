@@ -9,10 +9,14 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  workmanager: ^0.5.2
+#  home_widget:
+#    git:
+#      url: https://github.com/amjad07/home_widget-main
+#      ref: f0e8e1b  # Specify the desired version or tag
 
-  home_widget:
-    path: ../
+
+#  home_widget:
+#    path: ../
 
   cupertino_icons: ^1.0.6
 
